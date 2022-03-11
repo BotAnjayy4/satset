@@ -17,19 +17,19 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ OTHER ]━━━━━━━━━━━━━━━━━//
 
-global.ownername = 'owner - sanzy'
-global.owner = ['6281276698054']
-global.packname = 'Sanzy'
-global.author = 'Gemoyy'
+global.ownername = 'Owner - Indra>_<'
+global.owner = ['6289667644225']
+global.packname = 'Indra>_<'
+global.author = 'HelloWord'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
-    bot: 'Fitur Khusus Pengguna Nomor Bot',
+admin: 'Fiturnya Buat Admin Doanh',
+    botAdmin: 'Jadiin Bot Admin Dulu Biar Bisa',
+    owner: 'Lu Bukan Owner Gw',
+    group: 'Di Grup Ae Banh',
+    private: 'Cht Pribadi Ae Klo Disini Malu>_<',
+    bot: 'Cuma Buat Bot',
 wait: 'Loading...',
 }
 
