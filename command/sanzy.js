@@ -15,7 +15,7 @@ var { performance } = require('perf_hooks')
 var { yta, ytv, servers } = require('../command/y2mate')
 var { smsg, getGroupAdmins, formatp, tanggal, formatDate, getTime, isUrl, sleep, clockString, runtime, fetchJson, getBuffer, jsonformat, delay, format, logic, generateProfilePicture, parseMention, getRandom } = require('../message/myfunc')
 var database = require('../json/database.json')
-var nomorbot = '6288973004570'
+var nomorbot = '16626678389'
 var simbol = '»'
 var setting = require('../json/setting.json')
 let {
@@ -89,7 +89,7 @@ irq: 0
 
 if (m.isGroup && !m.key.fromMe && !isGroupAdmins && !isBotAdmins){
 if (budy.includes(`https://chat.whatsapp.com`)) {
-sanzy.sendMessage(m.chat, {text: `*Antilink Group Terdeteksi*\n\nKamu akan dikeluarkan dari group ${groupMetadata.subject}`}, {quoted:m})
+sanzy.sendMessage(m.chat, {text: `*Dibilangin Jan Share Link*\n\nGw Kick Ya, Dada👋 ${groupMetadata.subject}`}, {quoted:m})
 await sanzy.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 }
 }
