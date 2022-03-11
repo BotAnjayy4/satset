@@ -29,8 +29,8 @@ admin: 'Fiturnya Buat Admin Doanh',
     owner: 'Lu Bukan Owner Gw',
     group: 'Di Grup Ae Banh',
     private: 'Cht Pribadi Ae Klo Disini Malu>_<',
-    bot: 'Cuma Buat Bot',
-wait: 'Loading...',
+    bot: 'Fitur Khusus Pengguna Nomor Bot',
+wait: 'Bntr Lagi Otw.... ',
 }
 
 let file = require.resolve(__filename)
